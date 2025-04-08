@@ -1,0 +1,12 @@
+langchain
+langchain_openai 
+langchain_community 
+python-dotenv
+geopy
+pypdf
+beautifulsoup4
+fastapi
+uvicorn
+pymongo
+typesense
+requests
